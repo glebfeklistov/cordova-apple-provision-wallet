@@ -1,0 +1,30 @@
+{
+  "name": "cordova-apple-provision",
+  "version": "1.0.1",
+  "description": "This plugin implements Apple Pay SDK features for card enrollment integration. Lets customers add a bank card to Apple Pay from the issuer app by providing the required card details.",
+  "cordova": {
+    "id": "cordova-apple-provision",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebfeklistov/cordova-apple-provision.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova",
+    "ios",
+    "provision",
+    "apple",
+    "plugin"
+  ],
+  "author": "feklistovgleb@gmail.com",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/glebfeklistov/cordova-apple-provision/issues"
+  },
+  "homepage": "https://github.com/glebfeklistov/cordova-apple-provision"
+}
